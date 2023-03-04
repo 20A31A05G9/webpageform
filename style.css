@@ -1,0 +1,57 @@
+body{
+    background-image: url(im/old-retro-antique-vintage-163185.jpeg);
+    background-size: cover;
+    
+
+}
+form{
+    
+    color: rgb(99, 245, 41);
+    padding: 100px 0px 0px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: bold;
+    font-size: xx-large;
+    width: 100%;
+}
+input{
+    font-size:x-large;
+    border-color: rgb(111, 7, 124);
+    border-radius: 10px;
+    
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 40px;
+    box-sizing: border-box;
+  }
+div {
+    background-image: url(im/sackcloth-sackcloth-textured-laptop-ipad-163143.jpeg);
+
+    border-radius: 100px;
+    border-color:rgb(125, 114, 134);
+    border-style:groove;
+    background-color: #f2f2f2;
+    padding: 20px;
+    background-size: cover;
+    width:50%;
+    height: 0%;
+    margin: 50px 200px 150px 200px;
+    position: right;
+  }
+  input[type=submit]:hover {
+    background-color: #45a049;
+    font-family:Georgia, 'Times New Roman', Times, serif
+  }
+  h1{
+    color: rgba(223, 99, 16, 0.884);
+    position:center;
+    font-size: 30px;
+    padding: 70px 3px 10px 50px; 
+
+}
